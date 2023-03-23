@@ -24,4 +24,4 @@ wget https://raw.githubusercontent.com/avnyadav/sensor-ault-detection/main/aps_f
 
 This is edited by Ankur Singh in Github.
 
-After a long time again start my project!!!! This is commit msg
+After a long time again start my project!!!! This is commit msg 
