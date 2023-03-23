@@ -13,3 +13,4 @@ watchfiles==0.17.0
 websockets==10.3
 wincertstore==10.3
 xgboost==1.6.2
+-e . #install my source code as a liberary. . means current dir.
